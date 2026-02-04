@@ -1,4 +1,4 @@
-# Sales_Dashboard
+# Sales-Dashboard
 
 # Sales Dashboard & KPI Analytics – Big Data Version
 
